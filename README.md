@@ -181,7 +181,7 @@ Since the final training epoch achieved the highest validation performance, the 
 ### Training Curves & Metrics
 
 <div align="center">
-  <img src="runs_yolo11/yolo11n_neu_det_e100_b4_img640/results.png" alt="YOLO Training Results Plot" width="600"/>
+  <img src="runs_yolo11/yolo11n_neu_det_e100_b4_img640/results.png" alt="YOLO Training Results Plot" width="1000"/>
   <p><em>YOLOv11n training curves</em></p>
 </div>
 
