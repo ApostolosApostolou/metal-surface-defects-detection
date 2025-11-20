@@ -1,0 +1,9 @@
+# NEU-DET dataset config for YOLO11
+path: dataset_yolo
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
