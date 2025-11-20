@@ -220,8 +220,18 @@ Although the performance is already good, several improvements could further enh
 
 Overall, the model provides reliable defect detection, and the pipeline demonstrates a complete and effective application of YOLO-based object detection on industrial surface-inspection data.
 
-
 ---
+
+## Test Set Visualization
+
+To better understand the model’s performance, the following figure shows **20 random test images** with both **ground-truth** (green) and **predicted** (red) bounding boxes.  
+This helps visually evaluate how well the model localizes defects and whether it correctly classifies each defect type.
+
+<div align="center">
+  <img src="test_predictions_grid.png" width="700"/>
+  <p><em>Green = Ground Truth | Red = Model Prediction</em></p>
+</div>
+
 
 <!-- ### Metrics Interpretation
 
