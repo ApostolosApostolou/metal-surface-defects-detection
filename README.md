@@ -228,7 +228,7 @@ To better understand the model’s performance, the following figure shows **20 
 This helps visually evaluate how well the model localizes defects and whether it correctly classifies each defect type.
 
 <div align="center">
-  <img src="test_predictions_grid.png" width="700"/>
+  <img src="test_predictions_grid.png" width="1000"/>
   <p><em>Green = Ground Truth | Red = Model Prediction</em></p>
 </div>
 
